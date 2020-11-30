@@ -1,0 +1,7 @@
+{
+  "name": "midi-player",
+  "version": "1.0.0",
+  "description": "Allows Chrome to play embeddeded MIDI files",
+  "main": "midijs/midi.js",
+  "license": "GPL-3.0"
+}
